@@ -1,155 +1,209 @@
-<h1 align="center">Hi, I'm Mahmood 🚀</h1>
-<h3 align="center">Cybersecurity &amp; AI Graduate</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://id-er2.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Cybersecurity+%26+AI+Graduate;Python+%7C+Local+AI+%7C+Security+Labs;Building+and+documenting%2C+one+project+at+a+time;Quran+teacher+since+2021" alt="Typing SVG" />
-  </a>
-</p>
+# Mahmood Abdulqhar Mohamad
 
-<p align="center">
-  <a href="https://id-er2.github.io/"><img src="https://img.shields.io/badge/Website-id--er2.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
-  <a href="https://www.linkedin.com/in/mahmood-abdulqhar-mohamad-5a0539339"><img src="https://img.shields.io/badge/LinkedIn-Mahmood_Abdulqhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://x.com/id_er2"><img src="https://img.shields.io/badge/X-id__er2-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-  <a href="https://id-er2.github.io/Mahmood_Abdulqhar_Mohamad_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
-</p>
+**Cybersecurity & Artificial Intelligence Graduate**
+Riyadh, Saudi Arabia
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=id-er2&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile views" />
-</p>
+<a href="https://id-er2.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0F9D8A&center=true&vCenter=true&width=600&lines=BSc+Cybersecurity+%26+AI+-+Excellent+with+Distinction;Python+%7C+Local+LLMs+%7C+Security+Labs;Building+and+documenting+what+I+learn;Quran+teacher+since+2021" alt="Typing SVG" />
+</a>
 
----
+<br>
 
-## 💻 About Me
+<a href="https://id-er2.github.io/"><img src="https://img.shields.io/badge/Website-id--er2.github.io-0F9D8A?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://www.linkedin.com/in/mahmood-abdulqhar-mohamad-5a0539339"><img src="https://img.shields.io/badge/LinkedIn-Mahmood_Abdulqhar-1F2937?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://x.com/id_er2"><img src="https://img.shields.io/badge/X-id__er2-1F2937?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
+<a href="https://id-er2.github.io/Mahmood_Abdulqhar_Mohamad_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-F59E0B?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
+<img src="https://komarev.com/ghpvc/?username=id-er2&color=0F9D8A&style=flat-square&label=Views" alt="Profile views"/>
 
-Cybersecurity and AI graduate. I train in vulnerability discovery and threat analysis, build practical projects with Python and local AI models, and document what I learn here, one project at a time.
+</div>
+
+<br>
+
+## // about
+
+Cybersecurity and AI graduate. I build practical tools with Python and local language models, practise vulnerability assessment and threat analysis in my own lab, and write down what I learn. I am looking for an entry-level cybersecurity or AI role in Riyadh.
 
 ```python
 class Mahmood:
-    degree = "BSc Cybersecurity & AI"
-    focus = ["Python", "threat analysis", "local AI"]
-    currently_learning = "n8n automation"
-    community = "Quran teacher since 2021"
+    degree   = "BSc Cybersecurity & AI (Excellent with Distinction, 2026)"
+    focus    = ["Python automation", "local LLMs", "vulnerability assessment"]
+    lab      = "Kali Linux + revived old devices"
+    studying = ["Red Team training", "n8n agents", "networking"]
+    outside  = "Quran teacher since 2021"
+    seeking  = "entry-level cybersecurity / AI role, Riyadh"
 ```
 
 > I learn by building, then I write down what I built.
 
----
+<br>
 
-## 📂 Featured Projects
+## // projects
 
-### 🔐 [private-telegram-assistant](https://github.com/id-er2/private-telegram-assistant)
+| Project | What it is | Stack | Status |
+|---|---|---|---|
+| [private-telegram-assistant](https://github.com/id-er2/private-telegram-assistant) | Owner-only Telegram study assistant for cybersecurity. Runs on a local model through Ollama, sends nothing to a cloud service, and ships with 23 offline tests. | Python, Ollama, Telegram Bot API | Published |
+| [presentation-pipeline](https://github.com/id-er2/presentation-pipeline) | Reads text from Word files, fills tagged PowerPoint templates (including Persian, right-to-left) and reports leftover placeholders. | Python, python-pptx, python-docx, lxml | Published |
+| [id-er2.github.io](https://id-er2.github.io/) | My portfolio site: skills, projects, education, certificates with verification links, and CV download. Plain HTML and CSS. | HTML, CSS, GitHub Pages | Live |
+| Self-hosted AI agent | A personal agent on n8n that automates workflows on local models, designed to run on limited hardware. | n8n, Ollama, Llama 3, Qwen 2.5 | In progress |
+| Networking study notebook | Arabic notes on networking fundamentals, TCP/UDP, application protocols and protection principles, written from course summaries. First of a planned series. | Writing | In progress |
+| Alem (AWS Cloud Hackathon, Team ZeroDay) | AI educational platform built within a team. I worked on cloud-deployment security on AWS and AI-driven lesson-planning features. | AWS, Python | Hackathon, Jan 2026 |
 
-A private Telegram assistant running on a local model via Ollama - a cybersecurity study companion. It never sends conversations to a cloud service, stores nothing unless asked, and ships with 23 tests that run fully offline.
+<br>
 
-`Python` `Ollama` `Telegram Bot API`
+## // tech arsenal
 
-### 📊 [presentation-pipeline](https://github.com/id-er2/presentation-pipeline)
+**Languages and scripting**
 
-An automation pipeline that prepares lesson slides: it reads text from Word files, fills PowerPoint templates, and reports any remaining placeholders. Tested end-to-end on real lesson templates.
+![Python](https://img.shields.io/badge/Python-0F9D8A?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-374151?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-374151?style=flat-square&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-374151?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-374151?style=flat-square&logo=css3&logoColor=white)
 
-`Python` `python-pptx` `python-docx` `lxml`
+**Web and APIs**
 
-### 🤖 n8n AI agent - in progress
+![Bootstrap](https://img.shields.io/badge/Bootstrap-374151?style=flat-square&logo=bootstrap&logoColor=white)
+![Django](https://img.shields.io/badge/Django-374151?style=flat-square&logo=django&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-374151?style=flat-square)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-374151?style=flat-square&logo=telegram&logoColor=white)
+![Git](https://img.shields.io/badge/Git-374151?style=flat-square&logo=git&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-374151?style=flat-square&logo=githubpages&logoColor=white)
 
-An AI agent built on n8n. The source and a full write-up will land here once it's done.
+**Data and machine learning** (Satr / Tuwaiq courses)
 
----
+![NumPy](https://img.shields.io/badge/NumPy-374151?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-374151?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-374151?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-374151?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-374151?style=flat-square)
 
-## 🛠️ Tech Arsenal
+**AI and LLMs**
 
-**Languages**
+![Ollama](https://img.shields.io/badge/Ollama-374151?style=flat-square&logo=ollama&logoColor=white)
+![Llama 3](https://img.shields.io/badge/Llama_3-374151?style=flat-square&logo=meta&logoColor=white)
+![Qwen 2.5](https://img.shields.io/badge/Qwen_2.5-374151?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-374151?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n_(learning)-F59E0B?style=flat-square&logo=n8n&logoColor=white)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Security**
 
-**AI & Messaging**
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-0F9D8A?style=flat-square&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-374151?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-374151?style=flat-square)
+![Vulnerability Assessment](https://img.shields.io/badge/Vulnerability_Assessment-374151?style=flat-square)
+![Penetration Testing](https://img.shields.io/badge/Penetration_Testing-374151?style=flat-square)
+![Network Security](https://img.shields.io/badge/Network_Security-374151?style=flat-square)
+![API Security](https://img.shields.io/badge/API_Security-374151?style=flat-square)
+![Access Control](https://img.shields.io/badge/Access_Control-374151?style=flat-square)
 
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+**Systems and cloud**
 
-**Document Automation**
+![Linux](https://img.shields.io/badge/Linux_(Debian,_CentOS)-374151?style=flat-square&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-374151?style=flat-square&logo=windows&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_Basics-374151?style=flat-square&logo=amazonwebservices&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP_%7C_DNS_%7C_DHCP-374151?style=flat-square)
+![Firewalls and VPNs](https://img.shields.io/badge/Firewalls_%7C_VPNs-374151?style=flat-square)
 
-![python-pptx](https://img.shields.io/badge/python--pptx-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
-![python-docx](https://img.shields.io/badge/python--docx-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
-![lxml](https://img.shields.io/badge/lxml-4B8BBE?style=for-the-badge)
+<br>
 
-**Security & Publishing**
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
-
-**Currently learning**
-
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
----
-
-## 🧭 Core Competencies
+## // focus areas
 
 ```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F9D8A','primaryTextColor':'#ffffff','lineColor':'#F59E0B','secondaryColor':'#374151','tertiaryColor':'#111827'}}}%%
 mindmap
   root((Mahmood))
-    Security
-      Threat analysis
-      Vulnerability discovery
-      Kali Linux labs
-    AI and Automation
-      Local models via Ollama
+    Offensive security
+      Vulnerability assessment
+      Kali Linux lab
+      Red Team training
+    Python and AI
+      Local models with Ollama
       Telegram bots
       Document pipelines
+      n8n agents
+    Networking
+      TCP/IP, DNS, DHCP
+      Wireshark and Nmap
+      Study notebook
     Teaching
       Quran memorization circles
 ```
 
----
+<br>
 
-## 🎯 Practical Experience
+## // experience
 
-- Took part in a Capture the Flag challenge at Black Hat.
-- AWS Cloud Catalyst GenAI Hackathon (January 2026) - proposed the project idea and researched how to implement it.
-- Home lab: hands-on practice with Kali Linux and private environments, plus reviving old devices.
-- Quran memorization teacher since 2021.
+**Quran Instructor** - Maknoon Charitable Society for Quran Memorization, Riyadh (2021 - present)
+Paid memorization circles: planning structured lessons and tracking each student's progress. Also a volunteer deputy imam at a local mosque, leading congregational prayers.
 
----
+**Security practice**
+- Took part in the Black Hat CTF challenge.
+- AWS Cloud Catalyst GenAI Hackathon (January 2026), Team ZeroDay: cloud-deployment security and AI lesson-planning features for Alem.
+- Home lab: Kali Linux and private test environments, plus reviving old devices.
+- Red Team training through self-study, with Kali labs. This is self-study, not a formal enrolment.
 
-## 🎓 Education & Certifications
+<br>
 
-- **BSc in Cybersecurity & AI** - Islamic University of Minnesota (remote), 2026, Excellent with Distinction.
-- **English Diploma** - 96.5%.
-- Certifications from Cisco Networking Academy, Google, and IBM SkillsBuild.
-- 22 courses (48 hours) across Satr and Tuwaiq Academy.
+## // education
 
----
+| | |
+|---|---|
+| **BSc Cybersecurity & Artificial Intelligence** | Islamic University of Minnesota (online), 2022 - 2026. Excellent with Distinction. |
+| **English Language Diploma** | Islamic University of Minnesota (online), 2024 - 2026. Excellent, 96.5%. |
 
-## 🧩 Soft Skills
+<br>
 
-- **Teaching and communication** - five years of running Quran memorization circles.
-- **Documentation habit** - every course I take ends up as a written notebook I can come back to.
-- **Working within constraints** - my AI tooling runs locally on a 16 GB laptop, tuned to stay light.
+## // certifications
 
----
+| Issuer | Courses |
+|---|---|
+| Red Team Leaders (2025) | Certified Cybersecurity Educator Professional (CCEP) |
+| Satr / Tuwaiq Academy (2024) | 22 courses, 48 hours: Introduction to Cybersecurity, Python 101-104, Git 101, Intro to Data Science, SQL 101-103, NumPy, Pandas, Matplotlib, Seaborn, Exploratory Data Analysis, Machine Learning (ML-101), HTML, CSS, Bootstrap, Django 101-103 |
+| Cisco Networking Academy | Introduction to Cybersecurity, Networking Basics, Endpoint Security, Introduction to Data Science |
+| Google / Coursera | Foundations of Cybersecurity, Play It Safe, Connect and Protect |
+| IBM SkillsBuild | Cybersecurity Fundamentals |
+| HP LIFE | Introduction to Cybersecurity Awareness, AI for Beginners |
+| Edraak | Cybersecurity Essentials; Learn English: Conversational Skills for Beginners (British Council) |
+| Islamic University of Minnesota | AI Applications |
 
-## 🌱 Currently Exploring
+**Languages:** Persian, Arabic, English
 
-- n8n agents and workflow automation
-- Git fundamentals, properly this time
-- A networking study notebook series
+<br>
 
----
+## // working style
 
-## 📊 GitHub Analytics
+- **Teaching and communication.** Five years of running Quran memorization circles, which means explaining the same thing several ways until it lands.
+- **Documentation.** Every course I finish becomes a written notebook I can return to.
+- **Working within limits.** My local AI tooling runs on a 16 GB laptop, so I keep it light.
+- **Self-directed.** Most of my security and automation skills come from labs and projects I set up myself.
+
+<br>
+
+## // now
+
+- Red Team training and Kali labs
+- n8n self-hosted agent
+- Git, properly this time
+- Networking notebook series
+- Applying for entry-level cybersecurity and AI roles in Riyadh
+
+<br>
+
+## // stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=id-er2&theme=transparent" alt="GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=id-er2&theme=transparent&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub streak" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=id-er2&theme=github_dark" alt="GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=id-er2&theme=dark&hide_border=true&background=111827&ring=0F9D8A&fire=F59E0B&currStreakLabel=0F9D8A&sideLabels=9CA3AF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=id-er2&theme=transparent" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=id-er2&theme=github_dark" alt="Top languages" height="165"/>
 </p>
 
----
+<br>
 
-## 📬 Let's Connect
+## // contact
 
-[Website](https://id-er2.github.io/) · [Resume (PDF)](https://id-er2.github.io/Mahmood_Abdulqhar_Mohamad_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/mahmood-abdulqhar-mohamad-5a0539339) · [X](https://x.com/id_er2)
+[Website](https://id-er2.github.io/) | [CV (PDF)](https://id-er2.github.io/Mahmood_Abdulqhar_Mohamad_CV.pdf) | [LinkedIn](https://www.linkedin.com/in/mahmood-abdulqhar-mohamad-5a0539339) | [X](https://x.com/id_er2) | mahmood.abdulqhar@gmail.com
