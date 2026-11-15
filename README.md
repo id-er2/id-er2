@@ -4,6 +4,14 @@
 
 **خريج أمن سيبراني وذكاء اصطناعي**
 
+<p align="center">
+  <a href="https://id-er2.github.io/"><img src="https://img.shields.io/badge/WEBSITE-VISIT-555?style=for-the-badge" alt="Website"></a><br>
+  <a href="https://www.linkedin.com/in/mahmood-abdulqhar-mohamad-5a0539339"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
+  <a href="https://x.com/id_er2"><img src="https://img.shields.io/badge/X-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a><br>
+  <a href="https://id-er2.github.io/Mahmood_Abdulqhar_Mohamad_CV.pdf"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD-2EA043?style=for-the-badge" alt="Resume"></a><br>
+  <img src="https://komarev.com/ghpvc/?username=id-er2&style=for-the-badge&color=6f42c1" alt="Profile views">
+</p>
+
 أتدرّب على اكتشاف الثغرات وتحليل التهديدات، وأبني مشاريع عملية بالـ Python ونماذج ذكاء اصطناعي محلية، وأوثّق هنا ما أتعلمه مشروعًا بعد مشروع.
 
 ## المشاريع
