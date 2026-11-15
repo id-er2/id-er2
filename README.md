@@ -1,98 +1,155 @@
-<div dir="rtl">
-
-
-# محمود عبد القهار محمد
-
-
-**خريج أمن سيبراني وذكاء اصطناعي**
-
+<h1 align="center">Hi, I'm Mahmood 🚀</h1>
+<h3 align="center">Cybersecurity &amp; AI Graduate</h3>
 
 <p align="center">
-  <a href="https://id-er2.github.io/"><img src="https://img.shields.io/badge/WEBSITE-VISIT-555?style=for-the-badge" alt="Website"></a><br>
-  <a href="https://www.linkedin.com/in/mahmood-abdulqhar-mohamad-5a0539339"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
-  <a href="https://x.com/id_er2"><img src="https://img.shields.io/badge/X-FOLLOW-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a><br>
-  <a href="https://id-er2.github.io/Mahmood_Abdulqhar_Mohamad_CV.pdf"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD-2EA043?style=for-the-badge" alt="Resume"></a><br>
-  <img src="https://komarev.com/ghpvc/?username=id-er2&style=for-the-badge&color=6f42c1" alt="Profile views">
+  <a href="https://id-er2.github.io/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=560&lines=Cybersecurity+%26+AI+Graduate;Python+%7C+Local+AI+%7C+Security+Labs;Building+and+documenting%2C+one+project+at+a+time;Quran+teacher+since+2021" alt="Typing SVG" />
+  </a>
 </p>
 
+<p align="center">
+  <a href="https://id-er2.github.io/"><img src="https://img.shields.io/badge/Website-id--er2.github.io-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://www.linkedin.com/in/mahmood-abdulqhar-mohamad-5a0539339"><img src="https://img.shields.io/badge/LinkedIn-Mahmood_Abdulqhar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://x.com/id_er2"><img src="https://img.shields.io/badge/X-id__er2-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="https://id-er2.github.io/Mahmood_Abdulqhar_Mohamad_CV.pdf"><img src="https://img.shields.io/badge/Resume-Download-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/></a>
+</p>
 
-## نبذة عني
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=id-er2&color=6366F1&style=for-the-badge&label=Profile+Views" alt="Profile views" />
+</p>
 
-أتدرّب على اكتشاف الثغرات وتحليل التهديدات، وأبني مشاريع عملية بالـ Python ونماذج ذكاء اصطناعي محلية، وأوثّق هنا ما أتعلمه مشروعًا بعد مشروع.
+---
 
-<div dir="ltr" align="left">
+## 💻 About Me
+
+Cybersecurity and AI graduate. I train in vulnerability discovery and threat analysis, build practical projects with Python and local AI models, and document what I learn here, one project at a time.
 
 ```python
 class Mahmood:
-    degree = "Cybersecurity & AI"
-    focus = ("Python", "threat analysis", "local AI")
-    community_work = "Quran teacher since 2021"
+    degree = "BSc Cybersecurity & AI"
+    focus = ["Python", "threat analysis", "local AI"]
+    currently_learning = "n8n automation"
+    community = "Quran teacher since 2021"
 ```
 
-</div>
+> I learn by building, then I write down what I built.
 
+---
 
-## المشاريع
+## 📂 Featured Projects
 
+### 🔐 [private-telegram-assistant](https://github.com/id-er2/private-telegram-assistant)
 
-- **[private-telegram-assistant](https://github.com/id-er2/private-telegram-assistant)** — مساعد تيليجرام خاص يعمل على نموذج محلي عبر Ollama. رفيق دراسة للأمن السيبراني: لا يرسل المحادثات إلى أي خدمة سحابية، ولا يحفظ شيئًا إلا بطلب، ومعه 23 اختبارًا يعمل بدون اتصال. `Python` `Ollama` `Telegram Bot API`
-- **[presentation-pipeline](https://github.com/id-er2/presentation-pipeline)** — خط أتمتة لتجهيز شرائح الدروس بالفارسية: يقرأ النص من ملفات Word ويعبّئ قوالب PowerPoint ويطلع تقريرًا بما تبقى من وسوم. `Python` `python-pptx` `python-docx`
-- **وكيل ذكاء اصطناعي على n8n** — قيد العمل، ويُنشر هنا مع الشرح والمصدر عند اكتماله.
+A private Telegram assistant running on a local model via Ollama - a cybersecurity study companion. It never sends conversations to a cloud service, stores nothing unless asked, and ships with 23 tests that run fully offline.
 
+`Python` `Ollama` `Telegram Bot API`
 
-## خبرة عملية
+### 📊 [presentation-pipeline](https://github.com/id-er2/presentation-pipeline)
 
+An automation pipeline that prepares lesson slides: it reads text from Word files, fills PowerPoint templates, and reports any remaining placeholders. Tested end-to-end on real lesson templates.
 
-- مشاركة في تحدي CTF ضمن فعاليات Black Hat.
-- Cloud Catalyst GenAI Hackathon ‏(AWS، يناير 2026) — دوري: اقتراح الفكرة والبحث في تنفيذها.
-- مختبر منزلي: تجارب على Kali Linux وبيئات خاصة، وفك وتشغيل أجهزة قديمة.
-- معلم تحفيظ قرآن منذ 2021.
+`Python` `python-pptx` `python-docx` `lxml`
 
+### 🤖 n8n AI agent - in progress
 
-## التعليم والشهادات
+An AI agent built on n8n. The source and a full write-up will land here once it's done.
 
+---
 
-- بكالوريوس الأمن السيبراني والذكاء الاصطناعي — الجامعة الإسلامية بمنيسوتا (عن بعد)، 2026.
-- دبلوم اللغة الإنجليزية — 96.5%.
-- شهادات من Cisco Networking Academy وGoogle وIBM SkillsBuild، و22 دورة (48 ساعة) في Satr / Tuwaiq Academy.
+## 🛠️ Tech Arsenal
 
+**Languages**
 
-## العُدّة التقنية
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**AI & Messaging**
+
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+**Document Automation**
+
+![python-pptx](https://img.shields.io/badge/python--pptx-D24726?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
+![python-docx](https://img.shields.io/badge/python--docx-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
+![lxml](https://img.shields.io/badge/lxml-4B8BBE?style=for-the-badge)
+
+**Security & Publishing**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
+
+**Currently learning**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+---
+
+## 🧭 Core Competencies
+
+```mermaid
+mindmap
+  root((Mahmood))
+    Security
+      Threat analysis
+      Vulnerability discovery
+      Kali Linux labs
+    AI and Automation
+      Local models via Ollama
+      Telegram bots
+      Document pipelines
+    Teaching
+      Quran memorization circles
+```
+
+---
+
+## 🎯 Practical Experience
+
+- Took part in a Capture the Flag challenge at Black Hat.
+- AWS Cloud Catalyst GenAI Hackathon (January 2026) - proposed the project idea and researched how to implement it.
+- Home lab: hands-on practice with Kali Linux and private environments, plus reviving old devices.
+- Quran memorization teacher since 2021.
+
+---
+
+## 🎓 Education & Certifications
+
+- **BSc in Cybersecurity & AI** - Islamic University of Minnesota (remote), 2026, Excellent with Distinction.
+- **English Diploma** - 96.5%.
+- Certifications from Cisco Networking Academy, Google, and IBM SkillsBuild.
+- 22 courses (48 hours) across Satr and Tuwaiq Academy.
+
+---
+
+## 🧩 Soft Skills
+
+- **Teaching and communication** - five years of running Quran memorization circles.
+- **Documentation habit** - every course I take ends up as a written notebook I can come back to.
+- **Working within constraints** - my AI tooling runs locally on a 16 GB laptop, tuned to stay light.
+
+---
+
+## 🌱 Currently Exploring
+
+- n8n agents and workflow automation
+- Git fundamentals, properly this time
+- A networking study notebook series
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <strong>البرمجة</strong><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=id-er2&theme=transparent" alt="GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=id-er2&theme=transparent&hide_border=true&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub streak" height="165"/>
 </p>
 
 <p align="center">
-  <strong>الذكاء الاصطناعي والرسائل</strong><br>
-  <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
-  <img src="https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Bot API">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=id-er2&theme=transparent" alt="Top languages" height="165"/>
 </p>
 
-<p align="center">
-  <strong>أتمتة المستندات</strong><br>
-  <img src="https://img.shields.io/badge/python%20pptx-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="python-pptx">
-  <img src="https://img.shields.io/badge/python%20docx-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python-docx">
-  <img src="https://img.shields.io/badge/lxml-5A9FD4?style=for-the-badge&logo=python&logoColor=white" alt="lxml">
-</p>
+---
 
-<p align="center">
-  <strong>الأمن والنشر</strong><br>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white" alt="GitHub Pages">
-</p>
+## 📬 Let's Connect
 
-<p align="center">
-  <strong>قيد العمل</strong><br>
-  <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n, in progress">
-</p>
-
-
-## تواصل
-
-
-[الموقع الشخصي](https://id-er2.github.io/) · [السيرة الذاتية](https://id-er2.github.io/Mahmood_Abdulqhar_Mohamad_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/mahmood-abdulqhar-mohamad-5a0539339) · [X](https://x.com/id_er2)
-
-
-</div>
+[Website](https://id-er2.github.io/) · [Resume (PDF)](https://id-er2.github.io/Mahmood_Abdulqhar_Mohamad_CV.pdf) · [LinkedIn](https://www.linkedin.com/in/mahmood-abdulqhar-mohamad-5a0539339) · [X](https://x.com/id_er2)
