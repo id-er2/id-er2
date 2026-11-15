@@ -16,6 +16,9 @@ Riyadh, Saudi Arabia
 <a href="https://x.com/id_er2"><img src="https://img.shields.io/badge/X-id__er2-1F2937?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
 <a href="https://id-er2.github.io/Mahmood_Abdulqhar_Mohamad_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-F59E0B?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
 <img src="https://komarev.com/ghpvc/?username=id-er2&color=0F9D8A&style=flat-square&label=Views" alt="Profile views"/>
+<br>
+<img src="https://img.shields.io/badge/Open_to-entry--level_cybersecurity_%26_AI_roles-0F9D8A?style=flat-square" alt="Open to entry-level cybersecurity and AI roles"/>
+<img src="https://img.shields.io/badge/Location-Riyadh,_Saudi_Arabia-374151?style=flat-square" alt="Riyadh, Saudi Arabia"/>
 
 </div>
 
@@ -108,6 +111,35 @@ class Mahmood:
 
 <br>
 
+## // how the projects work
+
+**private-telegram-assistant**
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F9D8A','primaryTextColor':'#ffffff','primaryBorderColor':'#0F9D8A','lineColor':'#F59E0B','secondaryColor':'#374151','tertiaryColor':'#111827','cScale0':'#0F9D8A','cScale1':'#374151','cScale2':'#B45309','cScale3':'#0F9D8A','cScale4':'#374151','cScale5':'#B45309','cScale6':'#0F9D8A','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#ffffff','cScaleLabel5':'#ffffff','cScaleLabel6':'#ffffff'}}}%%
+flowchart LR
+    A[Telegram message] --> B{Owner ID matches and private chat?}
+    B -- no --> C[No reply]
+    B -- yes --> D[Build context: recent history, saved facts, lab notes]
+    D --> E[Local model via Ollama]
+    E --> F[Stream reply by editing the Telegram message]
+```
+
+**presentation-pipeline**
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F9D8A','primaryTextColor':'#ffffff','primaryBorderColor':'#0F9D8A','lineColor':'#F59E0B','secondaryColor':'#374151','tertiaryColor':'#111827','cScale0':'#0F9D8A','cScale1':'#374151','cScale2':'#B45309','cScale3':'#0F9D8A','cScale4':'#374151','cScale5':'#B45309','cScale6':'#0F9D8A','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#ffffff','cScaleLabel5':'#ffffff','cScaleLabel6':'#ffffff'}}}%%
+flowchart LR
+    A[input_pptx] --> B[01 Clear eligible text, add tags, write maps]
+    W[Word documents] --> C[02 Parse into JSON payload]
+    B --> D[03 Inject text and format]
+    C --> D
+    D --> E[output pptx]
+    E --> F[04 Audit leftover tags]
+```
+
+<br>
+
 ## // focus areas
 
 ```mermaid
@@ -143,6 +175,20 @@ Paid memorization circles: planning structured lessons and tracking each student
 - AWS Cloud Catalyst GenAI Hackathon (January 2026), Team ZeroDay: cloud-deployment security and AI lesson-planning features for Alem.
 - Home lab: Kali Linux and private test environments, plus reviving old devices.
 - Red Team training through self-study, with Kali labs. This is self-study, not a formal enrolment.
+
+<br>
+
+## // timeline
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F9D8A','primaryTextColor':'#ffffff','primaryBorderColor':'#0F9D8A','lineColor':'#F59E0B','secondaryColor':'#374151','tertiaryColor':'#111827','cScale0':'#0F9D8A','cScale1':'#374151','cScale2':'#B45309','cScale3':'#0F9D8A','cScale4':'#374151','cScale5':'#B45309','cScale6':'#0F9D8A','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#ffffff','cScaleLabel5':'#ffffff','cScaleLabel6':'#ffffff'}}}%%
+timeline
+    2021 : Start teaching Quran memorization circles
+    2022 : Start BSc in Cybersecurity and AI
+    2024 : Satr / Tuwaiq Academy, 22 courses : Start English Language Diploma
+    2025 : CCEP certification
+    2026 : AWS Cloud Catalyst GenAI Hackathon (January) : BSc, Excellent with Distinction : First public repositories (November)
+```
 
 <br>
 
