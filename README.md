@@ -129,13 +129,13 @@ flowchart LR
 
 ```mermaid
 %%{init: {'theme':'base','themeVariables':{'primaryColor':'#0F9D8A','primaryTextColor':'#ffffff','primaryBorderColor':'#0F9D8A','lineColor':'#F59E0B','secondaryColor':'#374151','tertiaryColor':'#111827','cScale0':'#0F9D8A','cScale1':'#374151','cScale2':'#B45309','cScale3':'#0F9D8A','cScale4':'#374151','cScale5':'#B45309','cScale6':'#0F9D8A','cScaleLabel0':'#ffffff','cScaleLabel1':'#ffffff','cScaleLabel2':'#ffffff','cScaleLabel3':'#ffffff','cScaleLabel4':'#ffffff','cScaleLabel5':'#ffffff','cScaleLabel6':'#ffffff'}}}%%
-flowchart LR
-    A[input_pptx] --> B[01 Clear eligible text, add tags, write maps]
-    W[Word documents] --> C[02 Parse into JSON payload]
-    B --> D[03 Inject text and format]
+flowchart TD
+    A["input_pptx folder"] --> B["Step 1: clear eligible text, add tags, write maps"]
+    W["Word documents"] --> C["Step 2: parse into JSON payload"]
+    B --> D["Step 3: inject text and format"]
     C --> D
-    D --> E[output pptx]
-    E --> F[04 Audit leftover tags]
+    D --> E["output_farsi folder"]
+    E --> F["Step 4: audit leftover tags"]
 ```
 
 <br>
