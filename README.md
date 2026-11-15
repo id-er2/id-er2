@@ -135,7 +135,7 @@ mindmap
 
 ## // experience
 
-**Quran Instructor** - Maknoon Charitable Society for Quran Memorization, Riyadh (2021 - present)
+**Quran Instructor** - Maknoon Charitable Society for Quran Memorization, Riyadh (2021 - present)<br>
 Paid memorization circles: planning structured lessons and tracking each student's progress. Also a volunteer deputy imam at a local mosque, leading congregational prayers.
 
 **Security practice**
@@ -148,7 +148,7 @@ Paid memorization circles: planning structured lessons and tracking each student
 
 ## // education
 
-| | |
+| Degree | Details |
 |---|---|
 | **BSc Cybersecurity & Artificial Intelligence** | Islamic University of Minnesota (online), 2022 - 2026. Excellent with Distinction. |
 | **English Language Diploma** | Islamic University of Minnesota (online), 2024 - 2026. Excellent, 96.5%. |
