@@ -5,16 +5,16 @@
 **Cybersecurity & Artificial Intelligence Graduate**
 Riyadh, Saudi Arabia
 
-<a href="https://id-er2.github.io/">
+<a href="https://mahmood-abdulqhar.pages.dev/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0F9D8A&center=true&vCenter=true&width=600&lines=BSc+Cybersecurity+%26+AI+-+Excellent+with+Distinction;Python+%7C+Local+LLMs+%7C+Security+Labs;Building+and+documenting+what+I+learn;Quran+teacher+since+2021" alt="Typing SVG" />
 </a>
 
 <br>
 
-<a href="https://id-er2.github.io/"><img src="https://img.shields.io/badge/Website-id--er2.github.io-0F9D8A?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://mahmood-abdulqhar.pages.dev/"><img src="https://img.shields.io/badge/Website-mahmood--abdulqhar.pages.dev-0F9D8A?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/mahmood-abdulqhar-mohamad-5a0539339"><img src="https://img.shields.io/badge/LinkedIn-Mahmood_Abdulqhar-1F2937?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://x.com/id_er2"><img src="https://img.shields.io/badge/X-id__er2-1F2937?style=flat-square&logo=x&logoColor=white" alt="X"/></a>
-<a href="https://id-er2.github.io/Mahmood_Abdulqhar_Mohamad_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-F59E0B?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
+<a href="https://mahmood-abdulqhar.pages.dev/Mahmood_Abdulqhar_Mohamad_CV.pdf"><img src="https://img.shields.io/badge/CV-PDF-F59E0B?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="CV"/></a>
 <img src="https://komarev.com/ghpvc/?username=id-er2&color=0F9D8A&style=flat-square&label=Views" alt="Profile views"/>
 <br>
 <img src="https://img.shields.io/badge/Open_to-entry--level_cybersecurity_%26_AI_roles-0F9D8A?style=flat-square" alt="Open to entry-level cybersecurity and AI roles"/>
@@ -48,7 +48,7 @@ class Mahmood:
 |---|---|---|---|
 | [private-telegram-assistant](https://github.com/id-er2/private-telegram-assistant) | Owner-only Telegram study assistant for cybersecurity. Runs on a local model through Ollama, sends nothing to a cloud service, and ships with 23 offline tests. | Python, Ollama, Telegram Bot API | Published |
 | [presentation-pipeline](https://github.com/id-er2/presentation-pipeline) | Reads text from Word files, fills tagged PowerPoint templates (including Persian, right-to-left) and reports leftover placeholders. | Python, python-pptx, python-docx, lxml | Published |
-| [id-er2.github.io](https://id-er2.github.io/) | My portfolio site: skills, projects, education, certificates with verification links, and CV download. Plain HTML and CSS. | HTML, CSS, GitHub Pages | Live |
+| [mahmood-abdulqhar.pages.dev](https://mahmood-abdulqhar.pages.dev/) | My portfolio site: skills, projects, education, certificates with verification links, and CV download. Plain HTML and CSS. | HTML, CSS, GitHub Pages | Live |
 | Self-hosted AI agent | A personal agent on n8n that automates workflows on local models, designed to run on limited hardware. | n8n, Ollama, Llama 3, Qwen 2.5 | In progress |
 | Networking study notebook | Arabic notes on networking fundamentals, TCP/UDP, application protocols and protection principles, written from course summaries. First of a planned series. | Writing | In progress |
 | Alem (AWS Cloud Hackathon, Team ZeroDay) | AI educational platform built within a team. I worked on cloud-deployment security on AWS and AI-driven lesson-planning features. | AWS, Python | Hackathon, Jan 2026 |
@@ -252,4 +252,4 @@ timeline
 
 ## // contact
 
-[Website](https://id-er2.github.io/) | [CV (PDF)](https://id-er2.github.io/Mahmood_Abdulqhar_Mohamad_CV.pdf) | [LinkedIn](https://www.linkedin.com/in/mahmood-abdulqhar-mohamad-5a0539339) | [X](https://x.com/id_er2) | mahmood.abdulqhar@gmail.com
+[Website](https://mahmood-abdulqhar.pages.dev/) | [CV (PDF)](https://mahmood-abdulqhar.pages.dev/Mahmood_Abdulqhar_Mohamad_CV.pdf) | [LinkedIn](https://www.linkedin.com/in/mahmood-abdulqhar-mohamad-5a0539339) | [X](https://x.com/id_er2) | mahmood.abdulqhar@gmail.com
