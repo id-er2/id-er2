@@ -48,7 +48,7 @@ class Mahmood:
 |---|---|---|---|
 | [private-telegram-assistant](https://github.com/id-er2/private-telegram-assistant) | Owner-only Telegram study assistant for cybersecurity. Runs on a local model through Ollama, sends nothing to a cloud service, and ships with 23 offline tests. | Python, Ollama, Telegram Bot API | Published |
 | [presentation-pipeline](https://github.com/id-er2/presentation-pipeline) | Reads text from Word files, fills tagged PowerPoint templates (including Persian, right-to-left) and reports leftover placeholders. | Python, python-pptx, python-docx, lxml | Published |
-| [mahmood-abdulqhar.pages.dev](https://mahmood-abdulqhar.pages.dev/) | My portfolio site: skills, projects, education, certificates with verification links, and CV download. Plain HTML and CSS. | HTML, CSS, GitHub Pages | Live |
+| [mahmood-abdulqhar.pages.dev](https://mahmood-abdulqhar.pages.dev/) | My portfolio site: skills, projects, education, certificates with verification links, and CV download. Plain HTML and CSS. | HTML, CSS, Cloudflare Pages | Live |
 | Self-hosted AI agent | A personal agent on n8n that automates workflows on local models, designed to run on limited hardware. | n8n, Ollama, Llama 3, Qwen 2.5 | In progress |
 | Networking study notebook | Arabic notes on networking fundamentals, TCP/UDP, application protocols and protection principles, written from course summaries. First of a planned series. | Writing | In progress |
 | Alem (AWS Cloud Hackathon, Team ZeroDay) | AI educational platform built within a team. I worked on cloud-deployment security on AWS and AI-driven lesson-planning features. | AWS, Python | Hackathon, Jan 2026 |
@@ -72,7 +72,7 @@ class Mahmood:
 ![REST APIs](https://img.shields.io/badge/REST_APIs-374151?style=flat-square)
 ![Telegram Bot API](https://img.shields.io/badge/Telegram_Bot_API-374151?style=flat-square&logo=telegram&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-374151?style=flat-square&logo=git&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-374151?style=flat-square&logo=githubpages&logoColor=white)
+![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-374151?style=flat-square&logo=cloudflarepages&logoColor=white)
 
 **Data and machine learning** (Satr / Tuwaiq courses)
 
