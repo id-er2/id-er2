@@ -174,7 +174,7 @@ mindmap
 ## // experience
 
 **Quran Instructor** - Maknoon Charitable Society for Quran Memorization, Riyadh (2021 - present)<br>
-Paid memorization circles: planning structured lessons and tracking each student's progress. Also a volunteer deputy imam at a local mosque, leading congregational prayers.
+Paid memorization circles: planning structured lessons and tracking each student's progress.
 
 **Security practice**
 - Took part in the Black Hat CTF challenge.
