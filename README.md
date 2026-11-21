@@ -46,6 +46,12 @@ class Mahmood:
 
 | Project | What it is | Stack | Status |
 |---|---|---|---|
+| [logshare](https://github.com/id-er2/logshare) | Local log redactor: masks emails, IPs, credentials, tokens and cookies before you share a log. Nothing leaves the machine. | Python | Published |
+| [netlab](https://github.com/id-er2/netlab) | Loopback-only networking lab: demo services, a connect scanner, scan detection, and TCP/IPv4 headers decoded offline. | Python | Published |
+| [phishcheck](https://github.com/id-er2/phishcheck) | Offline phishing indicator checker for URLs and email headers. Makes no network requests. | Python | Published |
+| [passcheck](https://github.com/id-er2/passcheck) | Offline password strength checker. Runs fully local; nothing is sent anywhere. | Python | Published |
+| [headercheck](https://github.com/id-er2/headercheck) | Checks the HTTP security headers of a URL and scores them out of 100. Read-only, no scanning. | Python | Published |
+| [passgen](https://github.com/id-er2/passgen) | Local password and passphrase generator with English and Arabic wordlists. | Python | Published |
 | [private-telegram-assistant](https://github.com/id-er2/private-telegram-assistant) | Owner-only Telegram study assistant for cybersecurity. Runs on a local model through Ollama, sends nothing to a cloud service, and ships with 23 offline tests. | Python, Ollama, Telegram Bot API | Published |
 | [presentation-pipeline](https://github.com/id-er2/presentation-pipeline) | Reads text from Word files, fills tagged PowerPoint templates (including Persian, right-to-left) and reports leftover placeholders. | Python, python-pptx, python-docx, lxml | Published |
 | [mahmood-abdulqhar.pages.dev](https://mahmood-abdulqhar.pages.dev/) | My portfolio site: skills, projects, education, certificates with verification links, and CV download. Plain HTML and CSS. | HTML, CSS, Cloudflare Pages | Live |
